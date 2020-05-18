@@ -1,3 +1,6 @@
+
+// over loaded hello function
+
 import java.util.*;
 
 public class over_load_test {
@@ -8,6 +11,7 @@ public class over_load_test {
 }
 
 class Hello {
+
 	static void hello() {
 		System.out.println("hi");
 	}
